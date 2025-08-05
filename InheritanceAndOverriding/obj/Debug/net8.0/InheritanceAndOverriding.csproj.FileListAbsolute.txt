@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\DCIT 318\Dcit318-Assignment2-11353306\InheritanceAndOverriding\bin\Debug\net8.0\InheritanceAndOverriding.exe
+C:\Users\ASUS\Desktop\DCIT 318\Dcit318-Assignment2-11353306\InheritanceAndOverriding\bin\Debug\net8.0\InheritanceAndOverriding.deps.json
+C:\Users\ASUS\Desktop\DCIT 318\Dcit318-Assignment2-11353306\InheritanceAndOverriding\bin\Debug\net8.0\InheritanceAndOverriding.runtimeconfig.json
+C:\Users\ASUS\Desktop\DCIT 318\Dcit318-Assignment2-11353306\InheritanceAndOverriding\bin\Debug\net8.0\InheritanceAndOverriding.dll
+C:\Users\ASUS\Desktop\DCIT 318\Dcit318-Assignment2-11353306\InheritanceAndOverriding\bin\Debug\net8.0\InheritanceAndOverriding.pdb
+C:\Users\ASUS\Desktop\DCIT 318\Dcit318-Assignment2-11353306\InheritanceAndOverriding\obj\Debug\net8.0\InheritanceAndOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\DCIT 318\Dcit318-Assignment2-11353306\InheritanceAndOverriding\obj\Debug\net8.0\InheritanceAndOverriding.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\DCIT 318\Dcit318-Assignment2-11353306\InheritanceAndOverriding\obj\Debug\net8.0\InheritanceAndOverriding.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\DCIT 318\Dcit318-Assignment2-11353306\InheritanceAndOverriding\obj\Debug\net8.0\InheritanceAndOverriding.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DCIT 318\Dcit318-Assignment2-11353306\InheritanceAndOverriding\obj\Debug\net8.0\InheritanceAndOverriding.sourcelink.json
+C:\Users\ASUS\Desktop\DCIT 318\Dcit318-Assignment2-11353306\InheritanceAndOverriding\obj\Debug\net8.0\InheritanceAndOverriding.dll
+C:\Users\ASUS\Desktop\DCIT 318\Dcit318-Assignment2-11353306\InheritanceAndOverriding\obj\Debug\net8.0\refint\InheritanceAndOverriding.dll
+C:\Users\ASUS\Desktop\DCIT 318\Dcit318-Assignment2-11353306\InheritanceAndOverriding\obj\Debug\net8.0\InheritanceAndOverriding.pdb
+C:\Users\ASUS\Desktop\DCIT 318\Dcit318-Assignment2-11353306\InheritanceAndOverriding\obj\Debug\net8.0\InheritanceAndOverriding.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\DCIT 318\Dcit318-Assignment2-11353306\InheritanceAndOverriding\obj\Debug\net8.0\ref\InheritanceAndOverriding.dll
